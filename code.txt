@@ -1,2 +1,4 @@
 hello world
-xin chao DangNgocDinh sv03
+xin chao Dang Ngoc Dinh sv03
+xin chao Nguyen Trong Bao Uy sv02
+xin chao Ngo Thanh Danh sv01
